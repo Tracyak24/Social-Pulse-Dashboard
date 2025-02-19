@@ -30,30 +30,43 @@ The “Social Pulse Dashboard” is a two-page Power BI report designed to analy
 
 4. Dashboard Design & Visualizations
 
-    • Page 1 (Overview & Key Metrics):
-        • KPI Cards: Display overall averages (shares, likes, engagement rate).
-        • Pie Charts & Bar Charts: Break down engagement rate by post type (image, video, poll, etc.) and sentiment (positive, negative, neutral).
-        • Bar/Column Chart: Show engagement by niche category (e.g., Food, Marketing, Travel) and platform.
-        • Line Chart: Track engagement rate over time or by hour for quick trend analysis.
+   • Page 1 (Overview & Key Metrics):
 
-    • Page 2 (Deeper Insights & Time Analysis):
-        • Month-by-Month Comparison: Engagement trends by month and platform.
-        • Day & Hour Analysis: Engagement rate by post day, helping optimize posting times.
-        • Hashtag Impact: Visualization showing engagement rates across different hashtag usage levels (0, 1, 2+).
-        • Platform Breakdown: Pie chart revealing which platform dominates the engagement landscape.
+   • KPI Cards: Display overall averages (shares, likes, engagement rate).
+
+   • Pie Charts & Bar Charts: Break down engagement rate by post type (image, video, poll, etc.) and sentiment (positive, negative, neutral).
+
+   • Bar/Column Chart: Show engagement by niche category (e.g., Food, Marketing, Travel) and platform.
+
+   • Line Chart: Track engagement rate over time or by hour for quick trend analysis.
+
+   • Page 2 (Deeper Insights & Time Analysis):
+
+   • Month-by-Month Comparison: Engagement trends by month and platform.
+
+   • Day & Hour Analysis: Engagement rate by post day, helping optimize posting times.
+
+   • Hashtag Impact: Visualization showing engagement rates across different hashtag usage levels (0, 1, 2+).
+
+   • Platform Breakdown: Pie chart revealing which platform dominates the engagement landscape.
 
 5. Key Insights
 
-    • Platform-Specific Patterns: Certain platforms may excel at specific post types (e.g., Twitter for polls, Instagram for images).
-    • Hashtag Utilization: Engagement can spike when an optimal number of hashtags is used—often 1–2.
-    • Sentiment Influence: Positive sentiment posts generally yield higher engagement, suggesting tone of voice is crucial.
-    • Timing Strategies: Identifying peak days and hours for posting can significantly boost audience interaction.
+   • Platform-Specific Patterns: Certain platforms may excel at specific post types (e.g., Twitter for polls, Instagram for images).
+
+   • Hashtag Utilization: Engagement can spike when an optimal number of hashtags is used—often 1–2.
+
+   • Sentiment Influence: Positive sentiment posts generally yield higher engagement, suggesting tone of voice is crucial.
+
+   • Timing Strategies: Identifying peak days and hours for posting can significantly boost audience interaction.
 
 6. Value Proposition
 
-    • Holistic Social Media Management: Offers a single source of truth for multi-platform data, making it easier to compare performance and allocate resources.
-    • Actionable Insights: Helps marketing teams refine content strategies (type, sentiment, timing) for maximum impact.
-    • Efficiency & Automation: Power BI’s automatic data refresh and dynamic filters save time on manual reporting and allow real-time decision-making.
+• Holistic Social Media Management: Offers a single source of truth for multi-platform data, making it easier to compare performance and allocate resources.
+    
+• Actionable Insights: Helps marketing teams refine content strategies (type, sentiment, timing) for maximum impact.
+    
+• Efficiency & Automation: Power BI’s automatic data refresh and dynamic filters save time on manual reporting and allow real-time decision-making.
 
 7. Conclusion
 
